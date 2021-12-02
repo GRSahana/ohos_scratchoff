@@ -1,0 +1,16 @@
+{
+  "integer": [
+    {
+      "name": "scratch__threshold_completion_percent",
+      "value": 100
+    },
+    {
+      "name": "scratch__clear_animation_duration_ms",
+      "value": 100
+    },
+    {
+      "name": "scratch__clear_animation_tag",
+      "value": 100
+    }
+  ]
+}

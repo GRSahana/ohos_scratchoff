@@ -1,0 +1,16 @@
+{
+  "boolean": [
+    {
+      "name": "scratch__clear_on_threshold_reached_enabled",
+      "value": true
+    },
+    {
+      "name": "scratch__clear_animation_enabled",
+      "value": true
+    },
+    {
+      "name": "scratch__state_restoration_enabled",
+      "value": true
+    }
+  ]
+}
