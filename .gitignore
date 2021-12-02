@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/scratchoff/build
+/scratchoff-sample/build
+/captures
+.idea/*
+*.iml
